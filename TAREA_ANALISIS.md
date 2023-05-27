@@ -341,15 +341,15 @@ public class Rectángulo_Singleton {
 
 ### RESULTADO AREA Y PERIMETRO
 
-![Resultado](resultadoareayperimetro.png)
+![Resultado](Analisis_GUI/src/main/java/FIGURAS_GEOMETRICAS/resultadoareayperimetro.png)
 
 ### LIMPIAR
 
-![Limpiar](limpiar.png)
+![Limpiar](Analisis_GUI/src/main/java/FIGURAS_GEOMETRICAS/limpiar.png)
 
 ### SALIR
 
-![Salir](salir.png)
+![Salir](Analisis_GUI/src/main/java/FIGURAS_GEOMETRICAS/Salir.png)
 
 
 # END
