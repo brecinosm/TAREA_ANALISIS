@@ -337,7 +337,7 @@ public class Rectángulo_Singleton {
 
 ### INTERFAZ GRAFICA 
 
-![Gui](interfazgrafica.png)
+![Gui](Analisis_GUI/src/main/java/FIGURAS_GEOMETRICAS/interfazgrafica.png)
 
 ### RESULTADO AREA Y PERIMETRO
 
